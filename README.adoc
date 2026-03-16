@@ -1,0 +1,15 @@
+= AspireApp
+Dan Clawson <zclawson@gmail.com>
+2026-03-16
+
+== Tutorial
+
+This repo follows the https://aspire.dev/get-started/first-app["Build your first Aspire app"] tutorial.
+
+As such, I probably won't work in branches, at least initially.  I may use a different workflow depending on what I do with this source after I complete the tutorial and start playing with other Aspire features and capabilities.
+
+== And More...
+
+I'll also use this repo as a sandbox for learning C# and some other stuff in the Microsoft space.  I spent several years as a Java developer and I'm told that C# is similar.
+
+
